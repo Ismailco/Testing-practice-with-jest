@@ -1,0 +1,23 @@
+{
+  "name": "testing-practice-with-jest",
+  "version": "1.0.0",
+  "description": "![](https://img.shields.io/badge/Microverse-blueviolet)",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ismailco/Testing-practice-with-jest.git"
+  },
+  "keywords": [],
+  "author": "ismailco",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ismailco/Testing-practice-with-jest/issues"
+  },
+  "homepage": "https://github.com/Ismailco/Testing-practice-with-jest#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
